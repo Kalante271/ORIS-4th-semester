@@ -36,3 +36,14 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+# Python
+venv/
+**/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Python local env
+.env
